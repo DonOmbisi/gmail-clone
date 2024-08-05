@@ -16,7 +16,7 @@ const app = createApp(App)
 app.use(router)
 app.use(pinia)
 app.use(vue3GoogleLogin, {
-  clientId: 'keyhere' // EG: 184413169503-jfhjjaskdfhdsakfhjsa.apps.googleusercontent.com
+  clientId: '479320296248-c7i2o2h65p97g4spqppdsul8behva8ea.apps.googleusercontent.com' // EG: 184413169503-jfhjjaskdfhdsakfhjsa.apps.googleusercontent.com
 })
 
 app.mount('#app')
